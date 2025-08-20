@@ -2,7 +2,7 @@
 
 This is an end-to-end data analytics project that analyzes simulated supply chain data for a major beverage company to identify and reduce product spoilage.
 
-**Live Dashboard Link:** [View the Interactive Dashboard Here](https://your-power-bi-public-link-goes-here)
+**Dashboard** 
 
 ---
 
